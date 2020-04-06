@@ -1,0 +1,11 @@
+{
+  "name": "sites_test",
+  "version": "1.0.0",
+  "description": "ceci est juste un test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henripeas",
+  "license": "ISC"
+}
