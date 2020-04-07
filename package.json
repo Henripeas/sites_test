@@ -4,7 +4,9 @@
   "description": "this is the test directory git and nodeJs",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "author": "Henripeas",
   "license": "ISC",
@@ -15,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Henripeas/sites_test/issues"
   },
-  "homepage": "https://github.com/Henripeas/sites_test#readme"
+  "homepage": "https://github.com/Henripeas/sites_test#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.12.9"
+  }
 }
