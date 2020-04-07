@@ -1,11 +1,19 @@
 {
   "name": "sites_test",
   "version": "1.0.0",
-  "description": "ceci est juste un test",
+  "description": "this is the test directory git and nodeJs",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Henripeas",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henripeas/sites_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Henripeas/sites_test/issues"
+  },
+  "homepage": "https://github.com/Henripeas/sites_test#readme"
 }
